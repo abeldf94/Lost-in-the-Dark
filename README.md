@@ -20,7 +20,7 @@ En cuanto a las mecánicas del juego tenemos:
     - **Movimiento de cámara:** el movimiento del jugador al ser en realidad virtual se produce por head tracking, es una mecánica no implementada como tal, pues ya la provee el SDK de GoogleVR, pero es importante mencionarlo.
     - **Movimiento de personaje:** por otra parte, el movimiento del personaje si se ha implementado desde cero. Este movimiento es siempre relativo a dónde esta mirando el jugador.
     - **Arma:** el jugador posee un arma con la cual se defiende. Esta tiene munición infinita y un cargador de 25 balas. El tiempo de recarga es una variable, pero está definida en 1.6 segundos.
-    - **Sonido:** el jugador percibe y emite sonidos. Los sonido más importante es el de los pasos y el arma, algo importante para futuras líneas de trabajo (multijugador o detección de sonidos por parte de los enemigos)
+    - **Sonido:** el jugador percibe y emite sonidos. Los sonido más importantes son el de los pasos y el arma, algo importante para futuras líneas de trabajo (multijugador o detección de sonidos por parte de los enemigos)
 
 
   - Enemigos:
