@@ -107,7 +107,8 @@ En cuanto a las mecánicas del juego tenemos:
 - No se ha tenido en cuenta, por fallo/despiste, los consejos de giro máximo del cuello. Ocasionalmente podemos encontrarnos situaciones donde tengamos enemigos debajo de los pies (arañas) y sobrepasa los límites recomendados.
 
 ## 7) Ejecución
-**Falta un gameplay**
+- El movimiento es un poco raro debido a que carezco de controlador y tuve que usar un movil para simularlo.
+- Video: https://youtu.be/HVzGQcqL1xU
 
 ## 8) Desarrollador
 - Abel Delgado Falcon: <abeldelgadofalcon@gmail.com>
